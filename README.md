@@ -54,7 +54,6 @@ My journey in cybersecurity has led me to develop a passion for it, and I am now
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CNVP_Certification-FF0000?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Cisco_CCENT-00A4EF?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
