@@ -14,7 +14,7 @@ My journey in cybersecurity has led me to develop a passion for it, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Rapheal93/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -57,6 +57,6 @@ My journey in cybersecurity has led me to develop a passion for it, and I am now
 </div>
 
 ## Projects
-- Active Directory Lab
+- <a href="https://github.com/Rapheal93/Active-Directory-Lab/tree/main">Active Directory Lab</a>
 - Detection Lab
 - SOC Automation Project
