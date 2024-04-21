@@ -16,7 +16,7 @@ My journey in cybersecurity has led me to develop a passion for it, and I am now
 |-----------------------------------------------|----------------------------|
 | Splunk Log Analysis and MITRE Attack Techniques | <a href="https://github.com/Rapheal93/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
 | Socket and Network Programming | <a href="https://github.com/Rapheal93/Port-Scanner-Lab/tree/main/">Port Scanner Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Python Programming | <a href="https://github.com/Rapheal93/TCP-Client-Lab">TCP Client Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -59,3 +59,4 @@ My journey in cybersecurity has led me to develop a passion for it, and I am now
 ## Projects
 - <a href="https://github.com/Rapheal93/Active-Directory-Lab/tree/main">Active Directory Lab</a>
 - <a href="https://github.com/Rapheal93/Port-Scanner-Lab/tree/main/">Port Scanner Lab</a>
+- <a href="https://github.com/Rapheal93/TCP-Client-Lab">TCP Client Lab</a>
