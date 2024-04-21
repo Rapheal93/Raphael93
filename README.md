@@ -14,8 +14,8 @@ My journey in cybersecurity has led me to develop a passion for it, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Rapheal93/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Rapheal93/Port-Scanner-Lab/tree/main/">Port Scanner Lab</a>|
+| Splunk Log Analysis and MITRE Attack Techniques | <a href="https://github.com/Rapheal93/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
+| Socket and Network Programming | <a href="https://github.com/Rapheal93/Port-Scanner-Lab/tree/main/">Port Scanner Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
