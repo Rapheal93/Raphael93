@@ -10,7 +10,6 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in cybersecurity has led me to develop a passion for it, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +21,6 @@ My journey in cybersecurity has led me to develop a passion for it, and I am now
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -42,7 +40,7 @@ My journey in cybersecurity has led me to develop a passion for it, and I am now
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Cloud
+### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Amazon_AWS_Security_Hub-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
